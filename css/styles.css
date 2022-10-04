@@ -34,11 +34,6 @@ body {
   font-size: 14px;
   letter-spacing: 0.03em;
 }
-/* header background */
-.header {
-  border-bottom: 1px solid #ECECEC;;
-  background-color: var(--background-color);
-}
 
 /* container */
 
@@ -102,6 +97,10 @@ body {
   color: var(--accent-color);
 }
 /* header information */
+.header {
+  border-bottom: 1px solid #ECECEC;;
+  background-color: var(--background-color);
+}
 .header__logo
 {
   color: var(--accent-color);
